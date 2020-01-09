@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Carlos-Rojas-CA/burger.git"
+    "url": "git+https://github.com/buckibill/burger.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Carlos-Rojas-CA/burger/issues"
+    "url": "https://github.com/buckibill/burger/issues"
   },
-  "homepage": "https://github.com/Carlos-Rojas-CA/burger#readme",
+  "homepage": "https://github.com/buckibill/burger#readme",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
